@@ -1,0 +1,6 @@
+keystore.properties
+*.jks
+*.keystore
+/build/
+/app/build/
+vibetube-db.json
